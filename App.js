@@ -9,6 +9,6 @@ export default function App() {
     </View>
 =======
     <Home/>
->>>>>>> 5c41bd415c48536fb35fd2e8e2ff110bbacf0bd2
+
   );
 }
