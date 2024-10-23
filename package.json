@@ -10,12 +10,20 @@
   },
   "dependencies": {
     "@types/react": "~18.2.79",
+<<<<<<< HEAD
+    "expo": "~51.0.28",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "typescript": "~5.3.3"
+=======
     "expo": "^51.0.38",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.5",
     "typescript": "~5.3.3",
     "yarn": "^1.22.22"
+>>>>>>> 5c41bd415c48536fb35fd2e8e2ff110bbacf0bd2
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
